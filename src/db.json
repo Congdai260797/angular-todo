@@ -1,0 +1,15 @@
+{
+    "courses": [{
+            "id": 1,
+            "name": "Angular",
+            "description": "courses Angular",
+            "free": 10
+        },
+        {
+            "id": 2,
+            "name": "ReactJS",
+            "description": "courses ReactJS",
+            "free": 20
+        }
+    ]
+}

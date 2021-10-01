@@ -1,0 +1,28 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Angular",
+      "description": "courses Angular",
+      "free": 10
+    },
+    {
+      "id": 2,
+      "name": "ReactJS",
+      "description": "courses ReactJS",
+      "free": 20
+    },
+    {
+      "name": "HTML",
+      "description": "asdasd",
+      "free": "120",
+      "id": 4
+    },
+    {
+      "name": "VueJS",
+      "description": "tesst",
+      "free": "123",
+      "id": 5
+    }
+  ]
+}
